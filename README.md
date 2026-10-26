@@ -1,4 +1,6 @@
 # Telco Customer Churn Prediction
+[![Live Demo](https://img.shields.io/badge/Live_Demo-15803D?style=for-the-badge&logo=streamlit&logoColor=white)](https://telco-customer-churn-prediction-nqzpem44mzr3uqyosqfcpt.streamlit.app/)
+
 
 An end-to-end supervised machine learning project that predicts customer attrition and evaluates retention risk across 7,000+ telecom customer profiles. Built with Python, Scikit-Learn, XGBoost, and Streamlit.
 
